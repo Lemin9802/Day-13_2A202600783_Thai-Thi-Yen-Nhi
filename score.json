@@ -1,0 +1,21 @@
+{
+  "team": "Lemin9802",
+  "phase": "public",
+  "headline": 100.0,
+  "sub": {
+    "correct": 0.955,
+    "quality": 0.973,
+    "error": 1.0,
+    "latency": 0.4357,
+    "cost": 0.0,
+    "drift": 0.8146,
+    "prompt": 0.9379
+  },
+  "diag_f1": 0.924,
+  "n": 120,
+  "n_correct": 114,
+  "judge_mode": "offline",
+  "weights_hash": "e81a8ed58d93",
+  "key_hash": "9a800fa6968d",
+  "sig": "5c12a20d6e798af2cb5a310ab152b8faf061db835a7f604b2b1bca13c76255a7"
+}
